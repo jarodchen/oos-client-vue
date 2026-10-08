@@ -1,1 +1,1 @@
-{"name":"RustFS-OOS","short_name":"RustFS","description":"企业级对象存储网盘系统","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#1677ff","lang":"en","scope":"/","icons":[{"src":"favicon.svg","sizes":"any","type":"image/svg+xml"}]}
+{"name":"RustFS-OOS","short_name":"RustFS","description":"企业级对象存储网盘系统","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#1677ff","lang":"en","scope":"/oos-client-vue/","icons":[{"src":"favicon.svg","sizes":"any","type":"image/svg+xml"}]}
