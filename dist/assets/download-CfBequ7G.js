@@ -1,0 +1,1 @@
+function c(t,d){const o=URL.createObjectURL(t),e=document.createElement("a");e.href=o,e.download=d,document.body.appendChild(e),e.click(),document.body.removeChild(e),setTimeout(()=>URL.revokeObjectURL(o),0)}export{c as d};
